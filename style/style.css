@@ -1,0 +1,12 @@
+#box {
+    width: 300px;
+   height: 300px;
+margin: 50px;
+background-color: rgb(148, 226, 252);
+   color: rgba(145, 128, 91, 0.712);
+
+   }
+.bigfont {
+    font-size: 100px;
+text-align: right
+}
